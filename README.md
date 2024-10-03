@@ -16,7 +16,7 @@
 ![VueJs](https://img.shields.io/badge/Vue.js-components-green)<br>  
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Tailwindcss]([https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=Tailwindcss&logoColor=white](https://img.shields.io/badge/TailwindCSS-%231a202c?logo=tailwind-css) <br> 
+![Tailwindcss](https://img.shields.io/badge/TailwindCSS-%231a202c?logo=tailwind-css) <br> 
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
