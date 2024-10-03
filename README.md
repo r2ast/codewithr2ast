@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/rahul_rastogi85/) 
+[![Instagram](https://media.licdn.com/dms/image/v2/D4D03AQGsX_KiM_ZLRA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683555821700?e=1733356800&v=beta&t=VmW7Cf9mBfsbYgKfBt6xEiewp0Y66YhSCfxyYlxFMOE/) 
 
 
 # 💻 Tech Stack:
