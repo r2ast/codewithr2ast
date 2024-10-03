@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://media.licdn.com/dms/image/v2/D4D03AQGsX_KiM_ZLRA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683555821700?e=1733356800&v=beta&t=VmW7Cf9mBfsbYgKfBt6xEiewp0Y66YhSCfxyYlxFMOE/) 
+[![Instagram]([https://media.licdn.com/dms/image/v2/D4D03AQGsX_KiM_ZLRA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683555821700?e=1733356800&v=beta&t=VmW7Cf9mBfsbYgKfBt6xEiewp0Y66YhSCfxyYlxFMOE](https://media.licdn.com/dms/image/v2/D4D03AQGsX_KiM_ZLRA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1683555821700?e=1733356800&v=beta&t=mMOrbuvCXfwDWm_C9fTXdjptHSRWhfPU_jvROsstcU4)/) 
 
 
 # 💻 Tech Stack:
